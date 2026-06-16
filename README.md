@@ -1,16 +1,27 @@
-<h1 align="center">Hey! I'm Raviteja 👋</h1>
-<h3 align="center">Data • ML • Engineering</h3>
+<h1 align="center">
+  <span style="font-size: 60px; font-weight: 900; letter-spacing: 4px;">
+    R A V I T E J A
+  </span>
+</h1>
+
+<p align="center">
+  <i>Data • ML • Engineering</i>
+</p>
+
+<p align="center">
+  <b>Building intelligent systems from data pipelines to predictive models</b>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
 - Strengthening my expertise in **Machine Learning, Time‑Series Forecasting, and Financial Analytics**, with hands‑on work in regression, classification, and predictive modeling.  
-- Building **end‑to‑end ML workflows** using Python, pandas, NumPy, scikit‑learn, and Jupyter — from data wrangling to model evaluation and visualization.  
-- Developing **GPU‑accelerated ML environments** using WSL2, CUDA, Docker, and VS Code Remote‑SSH to create clean, reproducible development pipelines.  
-- Exploring **ML engineering practices** including containerized development, environment reproducibility, and scalable data workflows.  
-- Working on **portfolio optimization, risk modeling, and quantitative analysis** to connect machine learning with real‑world finance.  
-- Improving my ability to communicate complex technical concepts through **clear visualizations, intuitive explanations, and structured documentation**.  
+- Building **end‑to‑end ML workflows** using Python, pandas, NumPy, scikit‑learn and Jupyter. From data wrangling to model evaluation and visualization.  
+- Developing **GPU‑accelerated ML environments** using WSL2, CUDA, Docker and VS Code Remote‑SSH to create clean, reproducible development pipelines.  
+- Exploring **ML engineering practices** including containerized development, environment reproducibility and scalable data workflows.  
+- Working on **portfolio optimization, risk modeling and quantitative analysis** to connect machine learning with real‑world finance.  
+- Improving my ability to communicate complex technical concepts through **clear visualizations, intuitive explanations and structured documentation**.  
 
  
 
