@@ -1,18 +1,22 @@
-<h1 align="center">
-  <span style="font-size: 60px; font-weight: 900; letter-spacing: 4px;">
+<!-- Banner -->
+<div align="center">
+  <img src="deep-learning-visual-1024x576.png" width="100%" style="border-radius: 10px;" />
+</div>
+
+<!-- Overlay Text -->
+<div align="center" style="margin-top: -120px; margin-bottom: 40px;">
+  <h1 style="font-size: 60px; font-weight: 900; letter-spacing: 4px; color: white;">
     R A V I T E J A
-  </span>
-</h1>
+  </h1>
 
-<p align="center">
-  <i>Data • ML • Engineering</i>
-</p>
+  <p style="font-size: 22px; color: #f0f0f0;">
+    <i>Data • ML • Engineering</i>
+  </p>
 
-<p align="center">
-  <b>Building intelligent systems from data pipelines to predictive models</b>
-</p>
-
----
+  <p style="font-size: 16px; color: #e0e0e0;">
+    <b>Building intelligent systems from data pipelines to predictive models</b>
+  </p>
+</div>
 
 ## 🎯 Current Focus
 
